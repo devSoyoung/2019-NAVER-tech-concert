@@ -11,4 +11,4 @@
 * #3 : 일 만드는 개발자 vs. 일 부풀리는 개발자
 * [#4](https://github.com/devSoyoung/2019-NAVER-tech-concert/issues/3) : 빠르게 훑어보는 웹 개발 트렌드
 * [#5](https://github.com/devSoyoung/2019-NAVER-tech-concert/issues/2) : 데이터 상태 관리. 그것을 알려주마
-* #6 : 오늘부터 나도 FE 성능분석가
+* [#6](https://github.com/devSoyoung/2019-NAVER-tech-concert/issues/4) : 오늘부터 나도 FE 성능분석가
